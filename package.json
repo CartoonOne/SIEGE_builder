@@ -1,8 +1,8 @@
 {
   "name": "old-world-builder",
   "version": "1.25.2",
-  "author": "Nico Thiebes",
-  "homepage": "https://old-world-builder.com",
+  "author": "Cartoon",
+  "homepage": "https://cartoonone.github.io/SIEGE_builder/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
