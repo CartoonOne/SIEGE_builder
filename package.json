@@ -3,7 +3,7 @@
   "version": "1.25.2",
   "author": "Cartoon",
   "homepage": "https://cartoonone.github.io/SIEGE_builder/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.7.2",
     "@sentry/cli": "^2.25.0",
